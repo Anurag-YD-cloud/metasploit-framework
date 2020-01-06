@@ -1,0 +1,6 @@
+pkg install wget
+wget https://rapid7.github.io/metasploit-framework/api
+cd metasploit.sh
+ls
+./metasploit.sh
+msfconsole
